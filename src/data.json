@@ -1,0 +1,272 @@
+{
+  "oliebollen": {
+    "name": "Oliebollen - Traditional Dutch Doughnuts",
+    "id": "oliebollen",
+    "description": "Dutch doughnuts, made with an enriched yeast dough and cooked in a deep fat fryer, with several fillings.",
+    "tag": ["Dutch", "Dessert"],
+    "time": {
+      "prepTime": "1 hour 30 mins",
+      "cookTime": "45 mins",
+      "totalTime": "2 hours 45 min"
+    },
+    "ingredients": [
+      {
+        "amount": "400",
+        "unit": "g",
+        "name": "flour"
+      },
+      {
+        "amount": "2",
+        "unit": "tsp",
+        "name": "salt"
+      },
+      {
+        "amount": "20",
+        "unit": "g",
+        "name": "fresh yeast"
+      },
+      {
+        "amount": "300",
+        "unit": "ml",
+        "name": "milk"
+      },
+      {
+        "amount": "1",
+        "name": "tbsp",
+        "preparation": "sugar"
+      },
+      {
+        "amount": "2",
+        "name": "eggs"
+      },
+      {
+        "amount": "200",
+        "unit": "g",
+        "name": "raisins"
+      },
+      {
+        "amount": "1",
+        "unit": "28 oz tin",
+        "name": "Chopped peeled tomatoes"
+      },
+      {
+        "amount": "1",
+        "unit": "big",
+        "name": "apple"
+      },
+      {
+        "name": "fat for deep frying"
+      },
+      {
+        "name": "icing sugar"
+      }
+    ],
+    "step": [
+      {
+        "description": "Dissolve the yeast in the milk, leave for a few minutes to get frothy."
+      },
+      {
+        "description": "Mix the flour, salt and sugar."
+      },
+      {
+        "description": "Add the eggs and the yeast-milk mixture to the flour."
+      },
+      {
+        "description": "Use a wooden spoon, whisk (needs to be a sturdy one) or dough-hooks and a mixer to mix everything together."
+      },
+      {
+        "description": "Keep mixing for about 10 minutes to develop the gluten."
+      },
+      {
+        "description": "Mix the raisins and apple through."
+      },
+      {
+        "description": "Cover the bowl and leave to rise for about 1 hour."
+      },
+      {
+        "description": "Heat the fat in a deep fat fryer or suitable pan to 170C."
+      },
+      {
+        "description": "Form spheres from the risen batter with 2 spoons, or an ice cream scoop, dipped in the hot fat and let them slide into the hot fat."
+      },
+      {
+        "description": "Bake them until brown, in 4-6 minutes. When the temperature of the fat is correct, the oliebollen will turn their selves over when the first side has browned enough."
+      },
+      {
+        "description": "Take the oliebollen from the fat with a slotted spoon, place them in a colander to get rid of most of the fat, then place them in another colander layered with kitchen paper towels. Use more kitchen paper towels between the layers. The towels will absorb the remaining fat."
+      },
+      {
+        "description": "Use the same method to bake the rest of the dough."
+      },
+      {
+        "description": "Eat hot, cold or reheated in the microwave and dusted with sugar."
+      }
+    ],
+    "image": "https://www.sbs.com.au/food/sites/sbs.com.au.food/files/styles/full/public/Oliebollen.jpg?itok=G6kezyJf"
+  },
+  "kruidnoten": {
+    "name": "Kruidnoten - Little Dutch spiced cookies",
+    "id": "kruidnoten",
+    "description": "Kruidnoten are small, round, cookie-like confectioneries with a crispy texture, traditionally associated with the early December Sinterklaas festivities in the Netherlands. The term kruidnoten is often confused with pepernoten.",
+    "tag": ["Dutch", "Dessert"],
+    "time": {
+      "prepTime": "25 mins",
+      "cookTime": "15 mins",
+      "totalTime": "40 min"
+    },
+    "ingredients": [
+      {
+        "amount": "2",
+        "unit": "cups",
+        "name": "flour"
+      },
+      {
+        "amount": "2",
+        "unit": "tsp",
+        "name": "salt"
+      },
+      {
+        "amount": "1",
+        "unit": "cup",
+        "name": "brown sugar"
+      },
+      {
+        "amount": "¾",
+        "unit": "cup",
+        "name": "butter"
+      },
+      {
+        "name": "pinch of",
+        "preparation": "salt"
+      },
+      {
+        "amount": "1",
+        "unit": "tbsp",
+        "name": "cinnamon"
+      },
+      {
+        "amount": "4",
+        "unit": "tbsp",
+        "name": "milk (or water)"
+      },
+      {
+        "amount": "½",
+        "unit": "tsp",
+        "name": "ground cloves"
+      },
+      {
+        "amount": "½",
+        "unit": "tsp",
+        "name": "ground nutmeg"
+      },
+      {
+        "amount": "½",
+        "unit": "tsp",
+        "name": "ground cardamom"
+      },
+      {
+        "amount": "½",
+        "unit": "tsp",
+        "name": "ground ginger"
+      }
+    ],
+    "step": [
+      {
+        "description": "Put the flour, sugar, milk, salt and the spices into a bowl and mix until combined."
+      },
+      {
+        "description": "Add the butter and knead until you've got a nice soft dough, which is slightly sticky."
+      },
+      {
+        "description": "Preheat the oven to 345°F (175°C)"
+      },
+      {
+        "description": "Roll the dough into little balls of about 0.5"
+      },
+      {
+        "description": "Place the balls on the baking sheet and make sure you give them a soft press"
+      },
+      {
+        "description": "Bake the kruinoten for 15 to 17 minutes in the preheated oven."
+      },
+      {
+        "description": "Take the kruidnoten from the oven and let them cool before eating."
+      },
+      {
+        "description": " Enjoy!"
+      }
+    ],
+    "image": "https://farm9.staticflickr.com/8651/15765589487_65a7b354b4_o.jpg"
+  },
+  "poffertjes": {
+    "name": "Poffertjes - Dutch Mini Pancakes",
+    "id": "poffertjes",
+    "description": "Poffertjes, (pronounced puff' ur jis) or Dutch Mini Pancakes are small, fluffy yeasted treats made in a special cast iron pan. Sold throughout the Netherlands, Poffertjes are traditionally served hot with a pat of butter and a good sprinkling of confectioners' sugar.",
+    "tag": ["Dutch", "Dessert"],
+    "time": {
+      "prepTime": "15 mins",
+      "cookTime": "20 mins",
+      "totalTime": "35 min"
+    },
+    "ingredients": [
+      {
+        "amount": "1/2",
+        "unit": "cups",
+        "name": "milk"
+      },
+      {
+        "amount": "1/4",
+        "unit": "tsp",
+        "name": "yeast"
+      },
+      {
+        "amount": "3/4",
+        "unit": "cup",
+        "name": "flour"
+      },
+      {
+        "amount": "2",
+        "unit": "tbsp",
+        "name": "granulated sugar"
+      },
+      {
+        "name": "pinch of",
+        "preparation": "salt"
+      },
+      {
+        "amount": "1",
+        "unit": "large",
+        "name": "egg"
+      },
+      {
+        "amount": "1",
+        "unit": "tbsp",
+        "name": "unsalted butter"
+      },
+      {
+        "name": "Confectioners' sugar for sprinkling on Poffertjes"
+      }
+    ],
+    "step": [
+      {
+        "description": "Add yeast to lukewarm milk; stir to combine. Allow to sit for about 10 minutes or until frothy."
+      },
+      {
+        "description": "Whisk together flour, sugar and salt in a large bowl. Add milk/yeast mixture and egg. "
+      },
+      {
+        "description": "Cover bowl with plastic wrap; let sit until bubbly and doubled in size, about 45 minutes."
+      },
+      {
+        "description": "Heat Poffertjes pan on medium heat until hot, 3 to 4 minutes. Brush cavities with melted butter. Add about 1 tablespoon of batter to each of the cavities. When small bubbles start to appear and the top starts to look a bit dried out, quickly flip Poffertjes."
+      },
+      {
+        "description": "Allow Poffertjes to cook on other side until nicely browned, about 2 minutes. Remove from pan. Repeat with remaining batter."
+      },
+      {
+        "description": "Serve hot with a pat of butter and sprinkling of confectioners' sugar. Yield, about 60 Poffertjes."
+      }
+    ],
+    "image": "https://ohmydish.nl/wp-content/uploads/2016/10/Poffertjes.jpg"
+  }
+}
