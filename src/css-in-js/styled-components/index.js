@@ -20,11 +20,11 @@ function StyledComponents() {
       <h1>{recipe.name} </h1>
       <p>{recipe.description}</p>
       <OrderedList>
-        {recipe.ingredients.map((item) => (
-          <ListItem key={item.name}>
-            {item.amount && `${item.amount} `}
-            {item.unit && `${item.unit} `}
-            {item.name}
+        {recipe.ingredients.map(({ amount = "", unit = "", name = "" }) => (
+          <ListItem key={name}>
+            {`${amount} `}
+            {`${unit} `}
+            {name}
           </ListItem>
         ))}
       </OrderedList>

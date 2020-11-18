@@ -10,11 +10,11 @@ function TailwindCss() {
       <h1 className="bold text-blue-800">{recipe.name} </h1>
       <p className="italic text-red-700">{recipe.description}</p>
       <ol>
-        {recipe.ingredients.map((item) => (
-          <li key={item.name}>
-            {item.amount && `${item.amount} `}
-            {item.unit && `${item.unit} `}
-            {item.name}
+        {recipe.ingredients.map(({ amount = "", unit = "", name = "" }) => (
+          <li key={name}>
+            {`${amount} `}
+            {`${unit} `}
+            {name}
           </li>
         ))}
       </ol>

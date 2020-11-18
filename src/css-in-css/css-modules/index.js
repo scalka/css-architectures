@@ -10,11 +10,11 @@ function CssModules() {
       <h1>{recipe.name} </h1>
       <p>{recipe.description}</p>
       <ol className={styles["ordered-list"]}>
-        {recipe.ingredients.map((item) => (
-          <li key={item.name}>
-            {item.amount && `${item.amount} `}
-            {item.unit && `${item.unit} `}
-            {item.name}
+        {recipe.ingredients.map(({ amount = "", unit = "", name = "" }) => (
+          <li key={name}>
+            {`${amount} `}
+            {`${unit} `}
+            {name}
           </li>
         ))}
       </ol>
