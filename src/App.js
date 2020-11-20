@@ -8,7 +8,7 @@ import CssInJs from "./css-in-js";
 function App() {
   return (
     <main>
-      <h1>Styling in React</h1>
+      <h1>FED Guild cookbook</h1>
       <BrowserRouter>
         <div>
           <nav className="menu">
