@@ -1,7 +1,40 @@
+@keyframes rock {
+  0%,
+  100% {
+    transform: rotate(1deg);
+  }
+
+  50% {
+    transform: rotate(-1deg);
+  }
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0);
+  }
+
+  to {
+    transform: rotate(3600000deg);
+  }
+}
+
+.name {
+  text-transform: uppercase;
+}
+
 .recipe {
-  background-color: teal;
+  border-radius: 0.6rem;
+  padding: 1rem 2rem;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  animation: rock 2000ms ease-in-out infinite;
+  background-color: saddlebrown;
 }
 
 .ordered-list {
   color: thistle;
+}
+
+.image {
+  animation: spin 2000ms ease-in-out infinite;
 }

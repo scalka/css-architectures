@@ -7,7 +7,9 @@ function CssModules() {
 
   return (
     <section className={styles.recipe}>
-      <h1>{recipe.name} </h1>
+      <h1 className={styles.name}>
+        <marquee>{recipe.name}</marquee>
+      </h1>
       <p>{recipe.description}</p>
       <ol className={styles["ordered-list"]}>
         {recipe.ingredients.map(({ amount = "", unit = "", name = "" }) => (
@@ -23,7 +25,7 @@ function CssModules() {
           <li key={index}>{item.description}</li>
         ))}
       </ol>
-      <img src={recipe.image} alt={recipe.name} />
+      <img className={styles.image} src={recipe.image} alt={recipe.name} />
     </section>
   );
 }
