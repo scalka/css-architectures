@@ -1,3 +1,3 @@
 # react-styling
 
-CSS Architecture workshop version 1
+Bla bla bla

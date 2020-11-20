@@ -3,7 +3,7 @@ import styles from "./style.module.css";
 import recipes from "../../data.json";
 
 function CssModules() {
-  const [recipe, setRecipe] = React.useState(recipes.oliebollen);
+  const [recipe, setRecipe] = React.useState(recipes.kruidnoten);
 
   return (
     <section className={styles.recipe}>

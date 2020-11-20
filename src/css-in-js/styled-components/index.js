@@ -13,7 +13,7 @@ const ListItem = styled.li`
 `;
 
 function StyledComponents() {
-  const [recipe, setRecipe] = React.useState(recipes.kruidnoten);
+  const [recipe, setRecipe] = React.useState(recipes.oliebollen);
 
   return (
     <section>
